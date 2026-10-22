@@ -1,6 +1,6 @@
 # 🚀 CV Web & Portfolio — Nolan Pay
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-site-id/deploy-status)](https://nolan-pay.netlify.app)
+![Netlify](https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=flat&logo=netlify)
 ![Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3-blue)
 ![Pipeline](https://img.shields.io/badge/CI%2FCD-Netlify-brightgreen)
 
